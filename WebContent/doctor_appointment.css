@@ -1,0 +1,31 @@
+#wrapper{
+	
+	margin: 0 auto;
+	padding-left:20px;
+	
+	
+}
+body{
+	background-color: #F6D7A7;
+	
+	background-image: url('arseny-togulev-DE6rYp1nAho-unsplash.jpg');
+	background-repeat:no-repeat;
+	background-attachment: fixed;
+	background-size: 100% 100%;
+	
+}
+#report{
+	position: absolute;
+	bottom:200px;
+}
+input,select,textarea{
+	position: absolute;
+	left: 180px;
+}
+form{
+	margin:20px;
+}
+#reportfile{
+	position: absolute;
+	left: 150px;
+}

@@ -1,0 +1,17 @@
+<Context>
+
+<Resource name="jdbc/doctor_appointment" 
+		 auth="Container" type="javax.sql.DataSource"
+		 	maxActive="20" maxIdle="5" maxWait="10000"
+		 	username="sys as sysdba"  password="root"
+		 	driverClassName="oracle.jdbc.driver.OracleDriver"
+		 	url="jdbc:oracle:thin:@localhost:1521:orcl">
+		 	</Resource>
+
+
+
+
+
+
+
+</Context>
